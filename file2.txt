@@ -6,7 +6,3 @@ grow, mark and tweak your common history
    reset     Reset current HEAD to the specified state
    switch    Switch branches
    tag       Create, list, delete or verify a tag object signed with GPG
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-        new file:   file1.txt
-        new file:   file2.txt
