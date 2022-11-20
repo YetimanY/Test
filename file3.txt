@@ -1,0 +1,7 @@
+C:\Users\ilyag\Desktop\User2>git clone https://github.com/YetimanY/Test.git
+Cloning into 'Test'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
